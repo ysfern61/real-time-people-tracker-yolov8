@@ -33,8 +33,10 @@ Bu proje, Python, YOLOv8 ve OpenCV kullanılarak geliştirilmiş basit ve etkili
 #### 1. Repository'yi Klonlayın
 Öncelikle projeyi bilgisayarınıza indirin:
 ```bash
-git clone https://github.com/KULLANICI-ADIN/REPOSITORY-ADIN.git
-cd REPOSITORY-ADIN
+git clone https://github.com/ysfern61/real-time-people-tracker-yolov8
+.git
+cd real-time-people-tracker-yolov8
+
 ```
 
 #### 2. Sanal Ortam Oluşturun (Önerilir)
