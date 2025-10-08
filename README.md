@@ -98,8 +98,9 @@ This is a simple yet effective real-time people tracking and counting applicatio
 #### 1. Clone the Repository
 First, download the project to your local machine:
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
-cd YOUR-REPOSITORY-NAME
+git clone https://github.com/ysfern61/real-time-people-tracker-yolov8
+.git
+cd real-time-people-tracker-yolov8
 ```
 
 #### 2. Create a Virtual Environment (Recommended)
